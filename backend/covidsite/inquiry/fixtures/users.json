@@ -1,0 +1,47 @@
+[
+  {
+    "fields": {
+      "email": "ramdom.email_1@example.com",
+      "password": "password",
+      "username": "username1"
+    },
+    "model": "auth.user",
+    "pk": 1
+  },
+  {
+    "fields": {
+      "email": "ramdom.email_2@example.com",
+      "password": "password",
+      "username": "username2"
+    },
+    "model": "auth.user",
+    "pk": 2
+  },
+  {
+    "fields": {
+      "email": "ramdom.email_3@example.com",
+      "password": "password",
+      "username": "username3"
+    },
+    "model": "auth.user",
+    "pk": 3
+  },
+  {
+    "fields": {
+      "email": "ramdom.email_4@example.com",
+      "password": "password",
+      "username": "username4"
+    },
+    "model": "auth.user",
+    "pk": 4
+  },
+  {
+    "fields": {
+      "email": "ramdom.email_5@example.com",
+      "password": "password",
+      "username": "username5"
+    },
+    "model": "auth.user",
+    "pk": 5
+  }
+]

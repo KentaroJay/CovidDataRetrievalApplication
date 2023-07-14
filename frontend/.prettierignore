@@ -1,0 +1,6 @@
+**/.git
+**/.svn
+**/.hg
+**/node_modules
+/src/gql/
+/src/assets/countries.json

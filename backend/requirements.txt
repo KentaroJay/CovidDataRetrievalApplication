@@ -1,0 +1,10 @@
+black
+Django
+django-extensions
+django-filter
+django-graphql-jwt
+Flake8-pyproject
+isort
+pygraphviz
+django-cors-headers
+requests
