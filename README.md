@@ -1,3 +1,11 @@
+- [Project Description](#project-description)
+- [Tech Stacks](#tech-stacks)
+  - [Backend](#backend)
+  - [Frontend](#frontend)
+- [Architecture](#architecture)
+- [How to run](#how-to-run)
+
+
 # Project Description
 
 This is a project for retrieving third party public api on https://covid-19.dataflowkit.com/
