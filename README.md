@@ -12,6 +12,8 @@ This is a project for retrieving third party public api on https://covid-19.data
 - Django
 - GraphQL
 
+Detail descriptions are written in [Here](backend/README.md)
+
 ## Frontend
 
 ![Frontend](frontend.png)
@@ -19,6 +21,8 @@ This is a project for retrieving third party public api on https://covid-19.data
 - React
 - TypeScript
 - Material UI
+
+Detail descriptions are written in [Here](frontend/README.md)
 
 # Architecture
 ![Architecture](architecture.png)
